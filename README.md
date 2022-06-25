@@ -1,4 +1,4 @@
-- Hi, My name is Joao Pedro Becker and I've been learning how to program for about 3 weeks now
+- Hi, My name is Joao Pedro Becker and I'm learning how to program
 - I’m interested in front-end dev
 - I’m currently learning HTML and CSS and will start to learn JS pretty soon
 - Contact me via e-mail: jpbecker20@gmail.com
