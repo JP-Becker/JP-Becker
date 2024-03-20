@@ -4,7 +4,7 @@
 <h3 align="center">Contatos:</h3>
 <p align="center">
 <a href="mailto:jpbecker20@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jpbecker20@gmail.com" height="30" width="100" /></a>
-<a href="https://api.whatsapp.com/send?phone=5548999666847&text=Ol%C3%A1,%20Olá, vim%20do%20seu%20site" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+5548999666847" height="30" width="100" /></a>
+<a href="https://api.whatsapp.com/send?phone=5548999666847&text=Olá, vim através do seu Github." target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+5548999666847" height="30" width="100" /></a>
 </p>
 
 
