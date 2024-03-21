@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João</h1>
-<h3 align="center">Sou um desenvolvedor iniciante que está sempre atrás de melhorar minhas habilidades. Atualmente estou cursando Sistemas de Informação na Unisul em Florianópolis e estou aberto a oportunidades profissionais na área. </h3>
+<h3 align="center">Sou um desenvolvedor que está sempre atrás de melhorar minhas habilidades. Atualmente estou cursando Sistemas de Informação na Unisul em Florianópolis e estou aberto a oportunidades profissionais na área. </h3>
 
 <h3 align="center">Contatos:</h3>
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align="center">Linguagens e frameworks que utilizo:</h3>
+<h3 align="center">Linguagens e frameworks que mais utilizo:</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
