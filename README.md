@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Becker</h1>
-<h3 align="center">Sou um desenvolvedor que está sempre atrás de melhorar minhas habilidades. Atualmente estou cursando Sistemas de Informação na Unisul em Florianópolis e estou aberto a oportunidades profissionais na área. </h3>
+<h3 align="center">Sou um desenvolvedor sempre em busca de conhecimento</h3>
 
 <h3 align="center">Contatos:</h3>
 <p align="center">
